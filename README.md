@@ -1,3 +1,5 @@
+PASOS A REALIZAR
+
 #Ejercicio 2
 
 * [X] Crea un repositorio llamado ejercicio2 en local.
